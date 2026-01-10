@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+geopandas
+rasterio
+shapely
+pyproj
+pdal
+whitebox
+reportlab
