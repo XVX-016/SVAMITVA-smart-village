@@ -1,0 +1,11 @@
+rasterio
+geopandas
+numpy
+torch
+torchvision
+segmentation-models-pytorch
+pillow
+pyproj
+shapely
+matplotlib
+pandas
